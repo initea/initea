@@ -1,4 +1,6 @@
 # 摸鱼从这里开始🐟✋
+<img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=initea&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+
 
 ![QQ](https://img.shields.io/badge/2704534108-81A1C1.svg?style=for-the-badge&logo=qq&logoColor=skyblue)
 
